@@ -15,4 +15,11 @@ body{
 #wrapper{
   height: 100vh;
   color: #ffffff;
+  font-family: sans-serif;
+}
+#wrapper h1{
+  position: absolute;
+	top: 50%;
+	left: 50%;
+	transform: translate(-50%, -50%);
 }
